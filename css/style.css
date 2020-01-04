@@ -199,6 +199,14 @@ banner
     padding-top: 8px;
     display: inline-block;
 }
+.img-custom-parkade{
+    height: 300px;
+    width: 50%;
+}
+.img-custom-front{
+    height: 400px;
+    width: 65%;
+}
 /***************************************
 services
 ***************************************/
