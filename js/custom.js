@@ -42,6 +42,7 @@
   //
   $(document).ready(function() {
     $("#hours-of-operation").load('times.html');
+    $('#covid19-modal').modal('show');
   });
 
   $(".navbar-collapse a").on('click', function() {

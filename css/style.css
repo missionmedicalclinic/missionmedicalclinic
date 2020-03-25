@@ -29,6 +29,9 @@ h1, h2, h3, h4, h5, h6
 .custom-h4 {
     display:inline;
 }
+.red-title{
+    color: red;
+}
 a, a:hover, a:focus, a:active{
     outline: none;
 }
@@ -506,6 +509,11 @@ footer
 
 .p1 {
     line-height: 150%;
+}
+
+.p2 {
+    line-height: 150%;
+    color: black;
 }
 
 .text-phone-number {
